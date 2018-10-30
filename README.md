@@ -50,6 +50,11 @@ apiName - name of the api; two values are accepted
 * openMovieDB 
 
 
+###Limitations
+
+Due to limits in API calls for theMovieDB free api, only the first page of results from theMovieDB is returned. 
+
+
  
 
 
