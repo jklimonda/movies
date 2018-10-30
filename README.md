@@ -34,7 +34,7 @@ IDEs such as Eclipse or IntelliJ IDEA should be able to detect how to run a spri
 
 `curl -i -u admin:P@ssw0rd -X POST http://localhost:8088/actuator/shutdown`
 
-You can change username and apssword in application.properties, or remove them to use standard login.
+You can change username and password in application.properties, or remove them to use standard login.
 
 2. Just kill the process
 
